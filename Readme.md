@@ -54,7 +54,7 @@ You need to do the following:
   2. verify it accepts two parameters, `a`, and `b`;
   3. remove the `pass` keyword and replace it with the following steps;
   4. inside, you should first calculate the numerator of the operation indicated above (`a*b`) and save it in a variable;
-  5. Then, you should print the variable holding the result of a\b with the following format: \
+  5. Then, you should print the variable holding the result of `a*b` with the following format: \
      `"mult result: <result of a*b>"`\
      Again, the `< ... >` notation is a placeholder for you to replace with the actual value or variable... for example, if the result of a\*b is 15, the printout should be: \
      `"mult result: 15"`
